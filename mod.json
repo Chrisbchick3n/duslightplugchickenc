@@ -1,0 +1,7 @@
+{
+  "id": "com.chickencontrol.bridge",
+  "name": "Chicken Control Bridge",
+  "version": "1.0.0",
+  "author": "Chicken Control",
+  "description": "Lets the Chicken Control TikTok gift app trigger in-game effects over a local TCP connection."
+}
